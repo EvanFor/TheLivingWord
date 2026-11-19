@@ -1,6 +1,6 @@
 # The Look (那一眼)
 
-**Status / 状态:** Development — screenplay draft 0.3; storyboard draft 0.2 / 开发中——剧本 Draft 0.3；分镜 Draft 0.2  
+**Status / 状态:** Development — screenplay draft 0.4; storyboard draft 0.3 / 开发中——剧本 Draft 0.4；分镜 Draft 0.3  
 **Core passage / 核心经文:** Luke 22:31–34, 54–62 / 路加福音 22:31–34、54–62  
 **Format / 画幅:** 16:9 cinematic short film / 16:9 横向电影短片  
 **Target runtime / 目标时长:** approximately 90 seconds / 约 90 秒
@@ -26,6 +26,10 @@ The emotional climax is the silent exchange of looks, not the third denial by it
 - [Character design brief / 人物视觉设计简报](character-design-brief.md)
 - [Continuity and staging guide / 连戏与场面调度指南](continuity-guide.md)
 - [Shot tracking / 镜头追踪表](shot-tracking.md)
+- [Production bible / 制作总纲](production-bible.md)
+- [Shot prompt pack / 逐镜头生成提示词](shot-prompts.md)
+- [Sound, edit, subtitles and delivery / 声音、剪辑、字幕与交付](sound-edit-subtitles.md)
+- [Animatic and asset register / 动态分镜与资产登记](animatic-and-asset-register.md)
 
 ## Current creative decisions / 当前创作决定
 
@@ -38,14 +42,11 @@ The emotional climax is the silent exchange of looks, not the third denial by it
 - **Textual discipline / 经文边界:** distinguish what Luke explicitly says, what the production interprets, and what the film invents for staging. / 严格区分路加明确记载的内容、制作团队的理解，以及电影为调度而创作的内容。
 - **Production / 制作状态:** no final images or video shots have been generated or approved. / 尚未生成或批准任何正式图片与视频镜头。
 
-## Next production gates / 下一阶段制作关口
+## Production package / 制作包
 
-1. Review the provisional film translation and approve a quotation/subtitle policy. / 审阅电影暂定译文，并批准经文引用与字幕规范。
-2. Approve screenplay dialogue against the source notes. / 对照经文研究，审定剧本对白。
-3. Review and approve the courtyard blocking proposal and camera axis. / 审阅并批准院落调度方案与摄影轴线。
-4. Review and approve the character design brief. / 审阅并批准人物视觉设计简报。
-5. Approve Jesus and Peter character reference sheets, then supporting-character and location references. / 先批准耶稣与彼得的人物参考设定，再制作配角和场景参考。
-6. Build a timed animatic before final video generation. / 正式生成视频前，先制作带精确时长的动态分镜。
+The bilingual production bible, 20-shot prompt pack, sound/edit/subtitle/delivery plan, and animatic/asset register are now documented. The recommended cut removes repeated memory voice-over and protects a four-second uninterrupted eye-contact hold. No character reference, location reference, generated still, or video shot has been approved yet.
+
+中英双语制作总纲、20镜头提示词包、声音／剪辑／字幕／交付方案，以及动态分镜／资产登记表已经建立。推荐剪辑删除重复的记忆旁白，并保护四秒不间断对视。目前尚无人物参考、场景参考、正式静帧或视频镜头获批。
 
 All creative documents remain drafts until explicitly approved.
 
