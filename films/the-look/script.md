@@ -125,10 +125,8 @@ Remain for a moment on the fire and the space he has left behind.
 
 Cut to black.
 
-**TITLE CARD:**  
-他就出去痛哭。
-
-**SCRIPTURE:** 路加福音 22:62
+**END CARD:**  
+路加福音 22:62 / Luke 22:62
 
 ---
 
