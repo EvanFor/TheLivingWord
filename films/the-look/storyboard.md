@@ -1,4 +1,4 @@
-# The Look — Storyboard 0.2
+# The Look — Storyboard 0.3
 
 **Status:** Draft — blocking and timings for review  
 **Target runtime:** approximately 90 seconds  
@@ -34,8 +34,8 @@
 | TL-013 | 00:58–01:04 / 6s | Peter freezes; background figures remain in soft focus as the rooster crows off-screen. | Locked close-up. No cutaway to the rooster. | The sound is the cut. Do not add music or a visual effect. |
 | TL-014 | 01:04–01:08 / 4s | Jesus being led through the far side of the courtyard. | Medium-wide lateral composition; restrained movement. | Establish Jesus in the same physical space as Peter. This is cinematic staging, not a claim about exact textual blocking. |
 | TL-015 | 01:08–01:12 / 4s | Jesus turns his head and eyes toward Peter. | Close/medium close-up; movement is small and deliberate. | The turn must be readable, not melodramatic. |
-| TL-016 | 01:12–01:17 / 5s | Peter looks up and meets Jesus' eyes. | Close-up, hold without push-in. | Recognition begins. Let the actor do the work. |
-| TL-017 | 01:17–01:20 / 3s | A held two-person axis or matched eyeline cut. | Stable composition; preserve screen direction. | The look lands. No flashback montage, no slow motion. |
+| TL-016 | 01:12–01:16 / 4s | Peter looks up and meets Jesus' eyes. | Close-up, hold without push-in. | Recognition begins. Let the actor do the work. |
+| TL-017 | 01:16–01:20 / 4s | A held two-person axis or matched eyeline cut. | Stable composition; preserve screen direction. | The look lands. No flashback montage, no slow motion. |
 | TL-018 | 01:20–01:24 / 4s | Peter lowers his eyes; tears gather but do not immediately fall. | Tight close-up. | Shock becomes shame and grief. |
 | TL-019 | 01:24–01:27 / 3s | Peter turns away from the fire and exits through the passage. | Rear three-quarter medium shot. | He tries to keep composure as he leaves the group. |
 | TL-020 | 01:27–01:30 / 3s | Empty firelit space after Peter has gone; cut to black and scripture card. | Locked wide or close insert of fire, then black. | The absence carries the ending. Scripture card may extend beyond the 90-second picture runtime if needed. |
@@ -68,7 +68,7 @@
 - Give the third denial slightly more space because the pressure has accumulated.
 - The rooster is a sound-led transition.
 - The look receives the most deliberate uninterrupted screen time.
-- Avoid explanatory flashbacks. If the memory line is retained, use a very brief audio memory over Peter's reaction, not a montage.
+- Avoid explanatory flashbacks and repeated memory voice-over. The opening prediction is sufficient; let Peter's reaction carry remembrance.
 
 ## Items to lock before image generation
 
@@ -111,8 +111,8 @@
 | TL-013 | 00:58–01:04 / 6秒 | 彼得僵住；背景人物虚化，画外鸡鸣响起。 | 固定特写，不切公鸡。 | 声音本身就是转折，不加音乐或视觉特效。 |
 | TL-014 | 01:04–01:08 / 4秒 | 耶稣被押着经过院落另一侧。 | 中远景横向构图，运动克制。 | 建立耶稣与彼得处于同一空间；这是电影调度，不是经文明载的具体走位。 |
 | TL-015 | 01:08–01:12 / 4秒 | 耶稣转头并将目光投向彼得。 | 近景或中近景，动作小而明确。 | 回头必须清晰可读，不能戏剧化。 |
-| TL-016 | 01:12–01:17 / 5秒 | 彼得抬头，与耶稣对视。 | 特写，不推进，保持停留。 | 意识开始发生；让演员完成表演。 |
-| TL-017 | 01:17–01:20 / 3秒 | 双人视线轴线或匹配视线剪辑。 | 构图稳定，保持屏幕方向。 | 目光真正落下；不做闪回蒙太奇，不用慢动作。 |
+| TL-016 | 01:12–01:16 / 4秒 | 彼得抬头，与耶稣对视。 | 特写，不推进，保持停留。 | 意识开始发生；让演员完成表演。 |
+| TL-017 | 01:16–01:20 / 4秒 | 双人视线轴线或匹配视线剪辑。 | 构图稳定，保持屏幕方向。 | 目光真正落下；不做闪回蒙太奇，不用慢动作。 |
 | TL-018 | 01:20–01:24 / 4秒 | 彼得垂下目光，泪水聚集但不立刻落下。 | 紧特写。 | 震惊转为羞愧和悲痛。 |
 | TL-019 | 01:24–01:27 / 3秒 | 彼得转离火堆，穿过通道离开。 | 后侧三分之二中景。 | 他离开人群时仍努力保持镇定。 |
 | TL-020 | 01:27–01:30 / 3秒 | 彼得离开后空荡的火光空间；切黑并出现经文字幕。 | 固定全景或火焰近景，随后切黑。 | 用空缺承载结尾；如有需要，经文字幕可延长到90秒画面时长之外。 |
@@ -145,7 +145,7 @@
 - 第三次否认应稍微留出空间，因为压力已经累积。
 - 鸡鸣是由声音引导的转场。
 - 那一眼应获得全片最有意识、最完整的连续停留时间。
-- 避免解释性闪回。如果保留记忆台词，只使用覆盖在彼得反应上的极短声音记忆，不做蒙太奇。
+- 避免解释性闪回和重复的记忆旁白。开场的预言已经足够，让彼得的反应承载记忆。
 
 ## 正式生成图片前需要锁定的事项
 
