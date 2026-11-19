@@ -19,6 +19,7 @@ The emotional climax is the silent exchange of looks, not the third denial by it
 - [Directorial interpretation](directorial-interpretation.md)
 - [Chinese translation comparison](translation-comparison.md)
 - [Courtyard blocking proposal](courtyard-blocking.md)
+- [Character design brief](character-design-brief.md)
 - [Continuity and staging guide](continuity-guide.md)
 - [Shot tracking](shot-tracking.md)
 
@@ -38,8 +39,8 @@ The emotional climax is the silent exchange of looks, not the third denial by it
 1. Review the provisional film translation and approve a quotation/subtitle policy.
 2. Approve screenplay dialogue against the source notes.
 3. Review and approve the courtyard blocking proposal and camera axis.
-4. Approve Jesus and Peter character reference sheets.
-5. Approve supporting-character and location references.
+4. Review and approve the character design brief.
+5. Approve Jesus and Peter character reference sheets, then supporting-character and location references.
 6. Build a timed animatic before final video generation.
 
 All creative documents remain drafts until explicitly approved.
