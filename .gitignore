@@ -1,0 +1,29 @@
+# Operating system / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary and generated working files
+.tmp/
+temp/
+tmp/
+cache/
+renders/
+exports/
+*.part
+*.tmp
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Large generated media should be stored outside Git unless explicitly approved
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.aiff
