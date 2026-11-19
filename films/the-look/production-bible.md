@@ -24,7 +24,7 @@
 | Opening | Luke 22:33–34, earlier that night. |
 | First denial | Peter says he does not know Jesus (22:57). |
 | Second denial | Preserve the short answer “I am not” (22:58). |
-| Third accusation | Retain the Galilean identification (22:59); do not claim Luke says accent exposed Peter. |
+| Third accusation | Retain the Galilean identification (22:59); indicate the approximately one-hour interval before it, compressed visually. Do not claim Luke says accent exposed Peter. |
 | Rooster | Off-screen; crow overlaps Peter still speaking (22:60). |
 | Look | Jesus turns and looks at Peter; Peter remembers (22:61). |
 | Exit | Peter goes outside and weeps bitterly (22:62). |
@@ -37,7 +37,7 @@
 | 开场 | 路加福音22:33–34，当晚较早时候。 |
 | 第一次否认 | 彼得说自己不认识耶稣（22:57）。 |
 | 第二次否认 | 保留简短回答“我不是”（22:58）。 |
-| 第三次指认 | 保留加利利人的身份指认（22:59）；不要说路加记载彼得因口音暴露。 |
+| 第三次指认 | 保留加利利人的身份指认（22:59）；以视觉方式暗示此前约一小时的间隔，并进行时间压缩。不要说路加记载彼得因口音暴露。 |
 | 鸡鸣 | 画外音；与彼得仍在说话的尾声重叠（22:60）。 |
 | 那一眼 | 耶稣转身看彼得，彼得想起主的话（22:61）。 |
 | 离开 | 彼得出去痛哭（22:62）。 |
@@ -76,9 +76,9 @@
 | 01:04–01:20 | 16秒 | 耶稣回头；彼得意识到真相 |
 | 01:20–01:30 | 10秒 | 彼得离开；火堆旁留下空位 |
 
-The animatic must protect at least four uninterrupted seconds of actual eye contact. If the cut runs long, trim transitions or non-essential movement before shortening the look.
+The animatic must make the approximately one-hour interval before the third accusation legible through a subtle visual time ellipsis, and protect at least four uninterrupted seconds of actual eye contact. If the cut runs long, trim transitions or non-essential movement before shortening the look.
 
-动态分镜必须保护至少四秒不间断的实际对视。如果总时长超出，先压缩转场或非必要走位，不要先缩短那一眼。
+动态分镜必须通过轻微的视觉时间跳跃，让观众感受到第三次指认前约一小时的间隔；同时保护至少四秒不间断的实际对视。如果总时长超出，先压缩转场或非必要走位，不要先缩短那一眼。
 
 ## 5. Performance direction / 表演方向
 
