@@ -1,4 +1,4 @@
-# The Look — Shot Tracking 0.2
+# The Look — Shot Tracking 0.3
 
 **Status:** Planning — no generated shot approved  
 **Aspect ratio:** 16:9 horizontal  
@@ -21,13 +21,17 @@
 | TL-013 | Rooster / Peter freezes | 6s | Peter, courtyard ambience | planned | Off-screen rooster sound |
 | TL-014 | Jesus crosses courtyard | 4s | Jesus, courtyard layout | planned | Staging choice; maintain axis |
 | TL-015 | Jesus turns | 4s | Jesus | planned | Small, readable movement |
-| TL-016 | Peter looks up | 5s | Peter | planned | Recognition begins |
-| TL-017 | The shared look | 3s | Jesus/Peter eyeline match | planned | No visual effect |
+| TL-016 | Peter looks up | 4s | Peter | planned | Recognition begins |
+| TL-017 | The shared look | 4s | Jesus/Peter eyeline match | planned | No visual effect |
 | TL-018 | Peter's grief | 4s | Peter | planned | Tears after recognition |
 | TL-019 | Peter exits | 3s | Peter, passage | planned | Composure breaks |
 | TL-020 | Empty courtyard / fire | 3s | Courtyard, fire | planned | Hold absence; title card |
 
 ## Asset dependencies
+
+- [ ] Review production bible and approve visual direction
+- [ ] Approve the 20-shot prompt pack before generation
+- [ ] Complete the timed animatic; protect the four-second eye-contact hold
 
 - [ ] Jesus approved character reference
 - [ ] Peter approved character reference
@@ -81,13 +85,17 @@ No shot should be marked `approved` until it has been reviewed in sequence with 
 | TL-013 | 鸡鸣 / 彼得僵住 | 6秒 | 彼得、院落环境声 | planned | 画外鸡鸣 |
 | TL-014 | 耶稣经过院子 | 4秒 | 耶稣、院落布局 | planned | 调度选择，保持轴线 |
 | TL-015 | 耶稣回头 | 4秒 | 耶稣 | planned | 动作小而清楚 |
-| TL-016 | 彼得抬头 | 5秒 | 彼得 | planned | 开始意识到真相 |
-| TL-017 | 双方对视 | 3秒 | 耶稣/彼得视线匹配 | planned | 不加视觉特效 |
+| TL-016 | 彼得抬头 | 4秒 | 彼得 | planned | 开始意识到真相 |
+| TL-017 | 双方对视 | 4秒 | 耶稣/彼得视线匹配 | planned | 不加视觉特效 |
 | TL-018 | 彼得悲痛 | 4秒 | 彼得 | planned | 意识之后才流泪 |
 | TL-019 | 彼得离开 | 3秒 | 彼得、通道 | planned | 镇定开始瓦解 |
 | TL-020 | 空院落 / 火堆 | 3秒 | 院落、火堆 | planned | 留下空缺，出现片尾字幕 |
 
 ## 资产依赖
+
+- [ ] 审阅制作总纲并批准视觉方向
+- [ ] 正式生成前审阅并批准20镜头提示词包
+- [ ] 完成动态分镜，保护四秒不间断对视
 
 - [ ] 已批准的耶稣人物参考
 - [ ] 已批准的彼得人物参考
