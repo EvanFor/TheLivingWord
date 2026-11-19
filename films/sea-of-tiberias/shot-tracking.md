@@ -22,10 +22,10 @@
 | ST-013 | Net brought ashore / 渔网拖上岸 | 9s | Peter, disciples, net / 彼得、门徒、渔网 | planned |
 | ST-014 | Jesus serves breakfast / 耶稣分早餐 | 12s | Jesus, group, food / 耶稣、门徒、食物 | planned |
 | ST-015 | After-meal transition / 早餐后转场 | 6s | Jesus, Peter, fire / 耶稣、彼得、炭火 | planned |
-| ST-016 | First question / 第一次提问 | 9s | Jesus, Peter / 耶稣、彼得 | planned |
-| ST-017 | Second question / 第二次提问 | 9s | Jesus, Peter / 耶稣、彼得 | planned |
-| ST-018 | Third question / 第三次提问 | 12s | Jesus, Peter / 耶稣、彼得 | planned |
-| ST-019 | Threefold commission / 三次托付 | 11s | Jesus, Peter / 耶稣、彼得 | planned |
+| ST-016 | First question + lambs commission / 第一次提问与喂养小羊 | 9s | Jesus, Peter / 耶稣、彼得 | planned |
+| ST-017 | Second question + shepherding commission / 第二次提问与牧养羊群 | 9s | Jesus, Peter / 耶稣、彼得 | planned |
+| ST-018 | Third question + sheep commission / 第三次提问与喂养羊群 | 12s | Jesus, Peter / 耶稣、彼得 | planned |
+| ST-019 | Peter absorbs the commission / 彼得承接托付 | 11s | Jesus, Peter / 耶稣、彼得 | planned |
 | ST-020 | Peter's future / 彼得的未来 | 8s | Jesus, Peter / 耶稣、彼得 | planned |
 | ST-021 | Follow me / 跟从我 | 6s | Jesus, Peter, shore / 耶稣、彼得、海岸 | planned |
 
