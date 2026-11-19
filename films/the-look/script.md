@@ -111,10 +111,7 @@ Hold the shared eyeline. The courtyard sound recedes, but does not become an art
 
 Peter remembers.
 
-The words from the upper room return briefly, almost as a memory rather than a voice-over:
-
-**JESUS (MEMORY, VERY LOW)**  
-今天鸡叫以前，你会三次说不认识我。
+The opening prediction is already familiar to the audience. Do not repeat it as voice-over; let Peter's eyes and the held silence carry the memory.
 
 Peter's expression changes: shock, recognition, shame. His eyes begin to fill. Jesus does not look away first.
 
@@ -169,8 +166,8 @@ Cut to black.
 ## Open decisions before script lock
 
 1. Confirm the Chinese Bible translation for any verbatim on-screen or spoken scripture.
-2. Decide whether the memory line is heard as a faint voice-memory or conveyed only through Peter's expression and a brief sound bridge.
-3. Confirm whether the target remains 90 seconds after the storyboard animatic.
+2. Keep the prediction as a visual memory only; no repeated voice-over in the recommended cut.
+3. Confirm 90-second timing in the animatic and protect at least four uninterrupted seconds of eye contact.
 4. Approve final dialogue wording and the staging of Jesus' path through the courtyard.
 
 
@@ -265,9 +262,7 @@ Cut to black.
 
 保持双方视线。院落环境声逐渐退远，但不能变成刻意制造的超自然音效。
 
-彼得想起了那句话。楼上房间里的话短暂地回到耳边，更像记忆，而不是旁白：
-
-**耶稣（记忆声，极轻）：**今天鸡叫以前，你会三次说不认识我。
+彼得想起了那句话。开场的预言观众已经听过。不要用记忆旁白重复，让彼得的眼神和那段停留的沉默承载记忆。
 
 彼得的神情发生变化：震惊、意识到真相、羞愧。泪水开始涌上眼眶。耶稣没有先移开目光。
 
@@ -316,6 +311,6 @@ Cut to black.
 ## 剧本锁定前待决定事项
 
 1. 确认所有逐字引用的屏幕经文或对白所采用的中文圣经译本。
-2. 决定记忆中的台词是以微弱的声音回响出现，还是仅通过彼得的表情和短暂声音衔接表达。
-3. 动态分镜完成后，确认目标时长是否仍为 90 秒。
+2. 推荐只通过彼得的表情呈现记忆，不重复加入记忆旁白。
+3. 动态分镜确认90秒时长，并保护至少四秒不间断对视。
 4. 批准最终对白，以及耶稣经过院子的具体调度。
