@@ -80,7 +80,7 @@ Peter pulls his hands closer to the fire. He tries to sound irritated, not frigh
 A short silence. Another **MAN** steps nearer, more certain now.
 
 **MAN**  
-我认得你的口音。你一定和他在一起。
+你也是加利利人，肯定和他是一伙的。
 
 Peter rises half a step, defensive. His voice comes out harder than he intended.
 
