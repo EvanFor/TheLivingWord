@@ -17,6 +17,7 @@ The emotional climax is the silent exchange of looks, not the third denial by it
 - [Shot-by-shot storyboard](storyboard.md)
 - [Scripture source notes](source-notes.md)
 - [Directorial interpretation](directorial-interpretation.md)
+- [Chinese translation comparison](translation-comparison.md)
 - [Continuity and staging guide](continuity-guide.md)
 - [Shot tracking](shot-tracking.md)
 
@@ -33,7 +34,7 @@ The emotional climax is the silent exchange of looks, not the third denial by it
 
 ## Next production gates
 
-1. Compare Chinese translations and approve a quotation/subtitle policy.
+1. Review the provisional film translation and approve a quotation/subtitle policy.
 2. Approve screenplay dialogue against the source notes.
 3. Approve the courtyard top-down layout and camera axis.
 4. Approve Jesus and Peter character reference sheets.
