@@ -1,6 +1,6 @@
 # The Look (那一眼)
 
-**Status:** Development — screenplay and storyboard draft 0.2  
+**Status:** Development — screenplay draft 0.3; storyboard draft 0.2  
 **Core passage:** Luke 22:31–34, 54–62  
 **Format:** 16:9 cinematic short film  
 **Target runtime:** approximately 90 seconds
