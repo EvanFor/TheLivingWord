@@ -16,6 +16,7 @@ The emotional climax is the silent exchange of looks, not the third denial by it
 - [Screenplay draft](script.md)
 - [Shot-by-shot storyboard](storyboard.md)
 - [Scripture source notes](source-notes.md)
+- [Directorial interpretation](directorial-interpretation.md)
 - [Continuity and staging guide](continuity-guide.md)
 - [Shot tracking](shot-tracking.md)
 
@@ -23,18 +24,20 @@ The emotional climax is the silent exchange of looks, not the third denial by it
 
 - **Primary Gospel account:** Luke. Other Gospel accounts are comparison references only unless a deliberate harmonization is approved.
 - **Opening declaration:** Luke 22:33; do not substitute Matthew's distinctive wording and cite it as Luke.
-- **Dialogue:** current screenplay lines are adapted paraphrases. A Chinese Bible translation must be selected before direct quotations are locked.
-- **Rooster:** heard off-screen; no need to cut to a rooster.
+- **Dialogue:** current screenplay lines are adapted paraphrases. No Chinese Bible translation has been selected as the sole authority; direct quotations must be checked against the Greek and identified translation policy.
+- **Rooster:** heard off-screen; no need to cut to a rooster. The crow overlaps Peter's third denial, as Luke 22:60 says he was still speaking.
 - **The look:** quiet, direct, held long enough to register; no halo, flash, supernatural glow, or slow-motion effect.
 - **Peter's grief:** recognition precedes tears; he tries to leave with composure before breaking down.
+- **Textual discipline:** distinguish what Luke explicitly says, what the production interprets, and what the film invents for staging.
 - **Production:** no final images or video shots have been generated or approved.
 
 ## Next production gates
 
-1. Approve screenplay dialogue and translation policy.
-2. Approve the courtyard top-down layout and camera axis.
-3. Approve Jesus and Peter character reference sheets.
-4. Approve supporting-character and location references.
-5. Build a timed animatic before final video generation.
+1. Compare Chinese translations and approve a quotation/subtitle policy.
+2. Approve screenplay dialogue against the source notes.
+3. Approve the courtyard top-down layout and camera axis.
+4. Approve Jesus and Peter character reference sheets.
+5. Approve supporting-character and location references.
+6. Build a timed animatic before final video generation.
 
 All creative documents remain drafts until explicitly approved.
