@@ -1,6 +1,6 @@
-# The Look — Screenplay Draft 0.3
+# The Look — Screenplay Draft 0.4
 
-**Status:** Draft 0.3 — revised after Greek-text and Chinese-translation review; not approved  
+**Status:** Draft 0.4 — production pass; not approved  
 **Primary narrative source:** Luke 22:31–34, 54–62  
 **Proposed runtime:** 90 seconds  
 **Aspect ratio:** 16:9 horizontal  
