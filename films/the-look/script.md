@@ -77,7 +77,7 @@ Peter pulls his hands closer to the fire. He tries to sound irritated, not frigh
 **PETER**  
 我不是。
 
-A short silence. Another **MAN** steps nearer, more certain now.
+Time passes—approximately an hour, compressed by the edit. The fire has burned lower; the people have subtly shifted. Peter remains among them. Another **MAN** steps nearer, more certain now.
 
 **MAN**  
 这人确实和他在一起，因为他也是加利利人。
@@ -234,7 +234,7 @@ Cut to black.
 
 **彼得：**我不是。
 
-短暂的沉默。另一名男人走近一些，语气更加肯定。
+时间过去了——约一个小时，电影通过剪辑压缩呈现。火势略微减弱，人群位置有细微变化，彼得仍留在他们中间。另一名男人走近一些，语气更加肯定。
 
 **男人：**这人确实和他在一起，因为他也是加利利人。
 
@@ -274,8 +274,7 @@ Cut to black.
 
 镜头在火堆和他留下的空位上停留片刻。切黑。
 
-**片尾字幕：**他就出去痛哭。  
-**经文：**路加福音 22:62
+**片尾经文出处：**路加福音 22:62 / Luke 22:62
 
 ## 表演提示
 
