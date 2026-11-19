@@ -29,7 +29,7 @@
 | TL-008 | 00:34–00:38 / 4s | Peter's first denial. Firelight catches one side of his face. | Close-up, mostly locked. | A quick defensive answer. His eyes betray the glance toward the passage. |
 | TL-009 | 00:38–00:42 / 4s | A man recognizes Peter among the group. | Medium shot with shallow background movement. | Pressure increases without the crowd becoming threatening caricatures. |
 | TL-010 | 00:42–00:45 / 3s | Peter's second denial. | Medium close-up; slight tightening in composition. | Defensive irritation covers fear. |
-| TL-011 | 00:45–00:50 / 5s | Another man steps closer and challenges him. | Over-the-shoulder toward Peter; keep fire and passage orientation consistent. | This is the moment Peter realizes he may be identified. |
+| TL-011 | 00:45–00:50 / 5s | Another man steps closer and challenges him. | Over-the-shoulder toward Peter; keep fire and passage orientation consistent. | Suggest the passage of time with a lower fire and subtle background repositioning; Peter remains in the same place. This is the moment Peter realizes he may be identified. |
 | TL-012 | 00:50–00:58 / 8s | Peter's third denial, ending on his face after the last word. | Close-up, subtle handheld tension only if stable generation is achievable. | He speaks too forcefully. Let the last word hang into the rooster cue. |
 | TL-013 | 00:58–01:04 / 6s | Peter freezes; background figures remain in soft focus as the rooster crows off-screen. | Locked close-up. No cutaway to the rooster. | The sound is the cut. Do not add music or a visual effect. |
 | TL-014 | 01:04–01:08 / 4s | Jesus being led through the far side of the courtyard. | Medium-wide lateral composition; restrained movement. | Establish Jesus in the same physical space as Peter. This is cinematic staging, not a claim about exact textual blocking. |
@@ -106,7 +106,7 @@
 | TL-008 | 00:34–00:38 / 4秒 | 彼得第一次否认，火光照亮半边脸。 | 特写，基本固定。 | 快速防御性回答；眼神泄露他瞥向通道的动作。 |
 | TL-009 | 00:38–00:42 / 4秒 | 一名男子在人群中认出彼得。 | 中景，背景有浅景深活动。 | 压力增加，但人群不能变成威胁性的脸谱化角色。 |
 | TL-010 | 00:42–00:45 / 3秒 | 彼得第二次否认。 | 中近景，构图略微收紧。 | 防御性的不耐烦掩盖恐惧。 |
-| TL-011 | 00:45–00:50 / 5秒 | 另一名男子走近并质问彼得。 | 过肩镜头，保持火堆与通道方向一致。 | 彼得意识到自己可能被认出来。 |
+| TL-011 | 00:45–00:50 / 5秒 | 另一名男子走近并质问彼得。 | 过肩镜头，保持火堆与通道方向一致。 | 通过火势减弱和背景人物位置细微变化暗示时间经过；彼得仍在原处。彼得意识到自己可能被认出来。 |
 | TL-012 | 00:50–00:58 / 8秒 | 彼得第三次否认，最后一句结束后停留在他的脸上。 | 特写；只有在生成稳定可控时才使用轻微手持感。 | 他说得过于用力，让最后一个字延续到鸡鸣提示点。 |
 | TL-013 | 00:58–01:04 / 6秒 | 彼得僵住；背景人物虚化，画外鸡鸣响起。 | 固定特写，不切公鸡。 | 声音本身就是转折，不加音乐或视觉特效。 |
 | TL-014 | 01:04–01:08 / 4秒 | 耶稣被押着经过院落另一侧。 | 中远景横向构图，运动克制。 | 建立耶稣与彼得处于同一空间；这是电影调度，不是经文明载的具体走位。 |
