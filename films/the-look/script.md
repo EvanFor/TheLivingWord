@@ -1,6 +1,6 @@
-# The Look — Screenplay Draft 0.2
+# The Look — Screenplay Draft 0.3
 
-**Status:** Draft — for director review  
+**Status:** Draft 0.3 — revised after Greek-text and Chinese-translation review; not approved  
 **Primary narrative source:** Luke 22:31–34, 54–62  
 **Proposed runtime:** 90 seconds  
 **Aspect ratio:** 16:9 horizontal  
@@ -40,7 +40,7 @@ A small oil lamp trembles in the quiet.
 The room is subdued. The others are present but fall out of focus. Peter leans toward Jesus. There is no bravado in him. He means every word.
 
 **PETER**  
-主啊，我愿意跟你一同下监，也愿意为你舍命。
+主啊，我已经准备好与你一同下监，甚至一同赴死。
 
 Jesus looks at him. No scolding. No attempt to win an argument.
 
@@ -60,7 +60,7 @@ Peter stands at the edge of the group, then sits near the fire. He keeps his fac
 A **SERVANT WOMAN** studies him in the firelight.
 
 **SERVANT WOMAN**  
-你也跟那个人在一起。
+这个人也跟他在一起。
 
 Peter looks up too quickly. He glances toward the passage where Jesus has been taken.
 
@@ -75,12 +75,12 @@ The woman does not pursue him. The people shift. A **MAN** looks at Peter more c
 Peter pulls his hands closer to the fire. He tries to sound irritated, not frightened.
 
 **PETER**  
-不是，你认错人了。
+我不是。
 
 A short silence. Another **MAN** steps nearer, more certain now.
 
 **MAN**  
-你也是加利利人，肯定和他是一伙的。
+这人确实和他在一起，因为他也是加利利人。
 
 Peter rises half a step, defensive. His voice comes out harder than he intended.
 
