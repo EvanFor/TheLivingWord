@@ -42,19 +42,19 @@ The animatic is the final timing and continuity test before video generation. Us
 
 1. Can the audience follow the time jump without an explanatory title?
 2. Are the three denials distinct and escalating?
-3. Does the rooster overlap the final denial?
-4. Is Jesus visibly in the same courtyard, with a believable path and matching eyeline?
-5. Does the four-second look feel sufficient rather than slow?
-6. Does Peter's grief begin only after recognition?
-7. Can the film end without narration or music?
+3. Is the approximately one-hour interval before the third accusation suggested clearly but economically?\n4. Does the rooster overlap the final denial?
+5. Is Jesus visibly in the same courtyard, with a believable path and matching eyeline?
+6. Does the four-second look feel sufficient rather than slow?
+7. Does Peter's grief begin only after recognition?
+8. Can the film end without narration or music?
 
 1. 观众能否在没有解释性字幕的情况下理解时间跳跃？
 2. 三次否认是否有清晰区别并逐渐升级？
-3. 鸡鸣是否与最后一次否认重叠？
-4. 耶稣是否明确处于同一院落，路线可信且视线匹配？
-5. 四秒对视是否足够有力，而不显拖沓？
-6. 彼得是否在意识到真相之后才开始显露悲痛？
-7. 影片能否在没有旁白和音乐的情况下结束？
+3. 第三次指认前约一小时的间隔，是否通过简洁的视觉方式清楚暗示？\n4. 鸡鸣是否与最后一次否认重叠？
+5. 耶稣是否明确处于同一院落，路线可信且视线匹配？
+6. 四秒对视是否足够有力，而不显拖沓？
+7. 彼得是否在意识到真相之后才开始显露悲痛？
+8. 影片能否在没有旁白和音乐的情况下结束？
 
 ## 4. Asset register / 资产登记表
 
