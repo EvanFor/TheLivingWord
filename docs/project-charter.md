@@ -72,3 +72,14 @@ TheLivingWord 是一个长期 AI 辅助电影创作项目，通过电影化叙�
 - **Approved / 已批准：** 当前正式制作参考。
 - **Superseded / 已被替代：** 已被后续批准决定取代，但保留历史记录。
 - **On hold / 暂停：** 有意暂时搁置。
+
+
+---
+
+## Bilingual documentation policy
+
+All project-level and film-production documents must be maintained in Chinese and English. Keep both language versions semantically aligned; neither version may introduce creative or textual decisions absent from the other. For technical documents, retain the existing English source and add a clearly marked Chinese companion section. For new documents, use bilingual headings and paired Chinese/English content where practical. Character dialogue remains in its intended spoken language, with translations supplied separately when needed.
+
+## 双语文档规范
+
+项目级与影片制作文档均须提供中英双语版本。两种语言的内容必须保持语义一致，不得在其中一种语言里擅自加入另一种语言没有的创作决定或经文解释。技术文档保留英文原文，并增加明确标注的中文对照部分；新文档尽可能使用双语标题和中英对应内容。人物对白保留影片实际使用的语言，需要时另附翻译。
