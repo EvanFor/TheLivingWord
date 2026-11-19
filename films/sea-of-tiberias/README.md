@@ -23,6 +23,8 @@ The film must not reduce the passage to a sentimental apology scene. The breakfa
 - [Storyboard / 分镜](storyboard.md)
 - [Production bible / 制作总纲](production-bible.md)
 - [Character and location continuity / 人物、场景与连戏](character-location-continuity.md)
+- [Shoreline blocking / 海岸调度](shoreline-blocking.md)
+- [Translation comparison / 译本比较](translation-comparison.md)
 - [Shot prompts / 镜头生成提示词](shot-prompts.md)
 - [Sound, edit and subtitles / 声音、剪辑与字幕](sound-edit-subtitles.md)
 - [Shot tracking / 镜头追踪](shot-tracking.md)
