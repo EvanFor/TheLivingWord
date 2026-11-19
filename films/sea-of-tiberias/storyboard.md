@@ -22,10 +22,10 @@
 | ST-013 | 01:28–01:37 | 9s | Disciples bring catch ashore / 门徒把鱼获拖上岸 | Complete catch sequence / 完成捕鱼段落 |
 | ST-014 | 01:37–01:49 | 12s | Jesus distributes bread and fish / 耶稣分饼和鱼 | Nourishment / 喂养 |
 | ST-015 | 01:49–01:55 | 6s | Meal ends; Jesus and Peter remain by fire / 早餐结束，耶稣与彼得仍在火旁 | Turn inward / 转入内心 |
-| ST-016 | 01:55–02:04 | 9s | First question and answer / 第一次问答 | First response / 第一次回应 |
-| ST-017 | 02:04–02:13 | 9s | Second question and answer / 第二次问答 | Repetition begins to weigh / 重复开始产生重量 |
-| ST-018 | 02:13–02:25 | 12s | Third question; Peter grieved, answers / 第三次提问，彼得忧伤回答 | Emotional center / 情绪核心 |
-| ST-019 | 02:25–02:36 | 11s | Three commissions in restrained two-shot / 以克制双人镜头承接三次托付 | Responsibility / 责任 |
+| ST-016 | 01:55–02:04 | 9s | First question, answer, and charge to feed the lambs / 第一次提问、回答与喂养小羊的托付 | First response / 第一次回应 |
+| ST-017 | 02:04–02:13 | 9s | Second question, answer, and charge to shepherd the sheep / 第二次提问、回答与牧养羊群的托付 | Repetition begins to weigh / 重复开始产生重量 |
+| ST-018 | 02:13–02:25 | 12s | Third question, Peter's grief and answer, and charge to feed the sheep / 第三次提问、彼得忧伤回答与喂养羊群的托付 | Emotional center / 情绪核心 |
+| ST-019 | 02:25–02:36 | 11s | Peter absorbs the threefold commission in silence / 彼得在沉默中承接三次托付 | Responsibility settles / 责任落定 |
 | ST-020 | 02:36–02:44 | 8s | Jesus speaks of Peter's future; Peter listens / 耶稣谈及彼得未来，彼得聆听 | Cost of discipleship / 跟从的代价 |
 | ST-021 | 02:44–02:50 | 6s | “Follow me”; Peter follows / “跟从我”，彼得跟上 | Open ending / 开放式结尾 |
 
